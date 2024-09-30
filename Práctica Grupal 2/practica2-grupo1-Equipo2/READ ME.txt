@@ -1,0 +1,1 @@
+Para ejecutar la aplicación, entre en la carpeta src y ejecute el archivo start.bat
